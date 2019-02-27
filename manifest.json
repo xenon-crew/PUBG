@@ -1,0 +1,13 @@
+{
+        "manifest_version":"1",
+        "type":"WebApp",
+        "meta":{
+                "name":"Demo_App",
+                "version":"1.0.0",
+                "minimum-overwolf-version":"0.77.10",
+                "author":"Developer_Name",
+                "icon":"IconMouseOver.png",
+                "icon_gray":"IconMouseNormal.png",
+                "description":"Demo App"
+        },
+}
